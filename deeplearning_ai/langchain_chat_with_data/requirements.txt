@@ -4,7 +4,7 @@ cohere==5.5.6
 ipykernel==6.29.4
 langchain==0.3.0
 langchain-community==0.3.27
-langchain-openai==0.1.8
+langchain-openai==1.1.14
 lark==1.1.9
 panel==1.4.4
 pypdf==6.10.2
