@@ -4,7 +4,7 @@ duckduckgo-search==6.1.5
 ipykernel==6.29.4
 langchain==0.2.10
 langchain-community==0.3.27
-langchain-openai==0.1.8
+langchain-openai==1.1.14
 langgraph==0.0.69
 python-dotenv==1.2.2
 tavily-python==0.3.3
