@@ -1,6 +1,6 @@
 ipykernel==6.29.5
 ipywidgets==8.1.7
-langchain==0.3.26
+langchain==0.3.30
 langchain-ollama==0.3.3
 langchain-openai==0.3.27
 langgraph==0.5.1
